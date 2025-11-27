@@ -2,7 +2,7 @@
 ### I am Sathvik Ram Lanka, a Computer Science and Statistics student at the University of Illinois at Urbana-Champaign. I've built full-stack applications, worked with Virtual Reality, and various other systems.
 
 ## Languages & Tools I use:
-### React, Node.js, ExpressJS, Flask, Pandas, NumPy, SciPy, MySQL, MongoDB
+#### React, Node.js, ExpressJS, Flask, Pandas, NumPy, SciPy, MySQL, MongoDB
 <!--
 **RamLanka05/RamLanka05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
