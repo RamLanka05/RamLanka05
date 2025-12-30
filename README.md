@@ -26,9 +26,9 @@ I love building things that live at the intersection of complex data and interac
 
 ---
 
-### 📫 Connect with Me
+<!-- ### 📫 Connect with Me
 
-<!-- * 💼 [LinkedIn](https://linkedin.com/in/sathvik-r-lanka)
+ * 💼 [LinkedIn](https://linkedin.com/in/sathvik-r-lanka)
 * 🌐 [Personal Portfolio](https://ramlanka05.github.io)
 * 📧 [ramlanka1208@gmail.com](mailto:ramlanka1208@gmail.com) -->
 
