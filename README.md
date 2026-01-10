@@ -8,10 +8,10 @@ I love building things that live at the intersection of complex data and interac
 
 ### 🔭 Focus Areas
 
-* **Machine Learning:** Leveraging my statistics background to build predictive models and analysis tools using `Pandas`, `NumPy`, and `SciPy`.
-* **Full Stack Development:** Building scalable web applications with the **MERN** stack and **Python Flask**.
-* **Game Development & VR:** Creating immersive simulations in **Unity** (C#) and exploring **Unreal Engine**.
 * **Systems Programming:** Exploring the low-level optimizations and architecture that power software using **C** and **C++**.
+*  **Full Stack Development:** Building scalable web applications with the **MERN** stack and **Python Flask**.
+* **Machine Learning:** Leveraging my statistics background to build predictive models and analysis tools using `Pandas`, `NumPy`, and `SciPy`.
+* **Game Development & VR:** Creating immersive simulations in **Unity** (C#) and exploring **Unreal Engine**.
 
 ---
 
