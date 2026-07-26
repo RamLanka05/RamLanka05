@@ -1,6 +1,6 @@
 # Hi there! I'm Sathvik 👋
 
-I am a third-year student at the **University of Illinois at Urbana-Champaign**, pursuing a **B.S. in Computer Science and Statistics** with a minor in **Mathematics**.
+I am a senior here at the **University of Illinois at Urbana-Champaign**, pursuing a **B.S. in Computer Science and Statistics** with a minor in **Mathematics**.
 
 I love building things that live at the intersection of complex data and interactive experiences. Currently, I'm diving deep into lower-level systems while expanding my expertise in ML and VR development.
 
